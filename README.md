@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - Blog: https://www.javaweb.org.cn/ | https://www.03sec.com
 - Email: sky@03sec.com
 
